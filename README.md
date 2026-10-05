@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm **Priyan**, a passionate **Full Stack Developer** with a strong interest in **Artificial Intelligence, Cloud Computing, and Modern Web Technologies**. I enjoy designing and developing scalable, high-performance applications that address real-world challenges through clean architecture and intuitive user experiences.
+I'm **Priyan**,a second Year B.Tech AI&Data Science student passionate **Full Stack Developer** with a strong interest in **Artificial Intelligence, Cloud Computing, and Modern Web Technologies**. I enjoy designing and developing scalable, high-performance applications that address real-world challenges through clean architecture and intuitive user experiences.
 
 My expertise spans across both frontend and backend development, enabling me to build end-to-end solutions using modern frameworks, cloud platforms, and AI-driven technologies. I am particularly interested in creating intelligent systems that combine automation, data, and user-centric design to deliver meaningful impact.
 
